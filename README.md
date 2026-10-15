@@ -42,3 +42,22 @@ Object_Detection_Project/
 ├── README.md
 ├── .gitignore
 └── venv/
+
+
+
+```
+## 💼 Internship Project
+
+This project was developed as part of the **CodeAlpha Internship Program**, focusing on practical applications of Artificial Intelligence, Computer Vision, and Python programming.
+
+The project explores YOLO-based object detection, multi-object tracking, and video processing using OpenCV, with an interactive Streamlit web interface.
+
+## 👩‍💻 Author
+
+**Reema Dsouza**
+
+GitHub: [@reemadsouza2006-dev](https://github.com/reemadsouza2006-dev)
+
+---
+
+*Developed as part of the CodeAlpha Internship Program.*
